@@ -1,5 +1,5 @@
 # epam-test
-my second try to past the test after few moths of learning english
+## This my attempt to pass the test after few moths of learning english
 
 Block 1:
  1) ![1 1](https://user-images.githubusercontent.com/67701905/234603885-6a17a4bc-dc60-45c3-bc79-778bf1494dfa.PNG)
